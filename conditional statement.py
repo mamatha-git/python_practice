@@ -18,3 +18,4 @@ elif 0 <= marks < 35:
     print("Fail")
 else:
     print("Invalid Marks")
+
